@@ -2,9 +2,9 @@
 a camera, on the web! no server required, 100% private, free, and easy to impliment. :)
 
 # how to add
-click on webcamera.html
-copy the **js** code
-paste in your website
+click on webcamera.html,
+copy the **js** code,
+paste in your website,
 profit
 
 -------------------------------------
