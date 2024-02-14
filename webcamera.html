@@ -70,7 +70,7 @@ a:active {
 }
 </style>
 </head>
-<center> <h1>Webcamera :3</h1> </center>
+<center> <h1>Header Text</h1> </center>
 <center> <p>click capture to take a photo. no pictures are saved on the server.</p> </center>
 <center> <p>this experiment is known to have bugs on ios that are (seemingly) unfixable.</p></center>
 <center> <p>                                                                              </p> </center>
@@ -101,7 +101,7 @@ function captureFrame() {
 
     var link = document.createElement('a');
     link.href = canvas.toDataURL('image/png');
-    link.download = 'yourpicture.png';
+    link.download = 'webcapture.png';
     link.click();
 }
 </script>
