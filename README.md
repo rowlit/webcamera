@@ -10,4 +10,4 @@ profit
 -------------------------------------
 
 if you use this, pls credit me. feel free to modify it as much as you dream. 
-donations -> https://paypal.me/rowlit124
+donations (always optional) -> https://paypal.me/rowlit124
